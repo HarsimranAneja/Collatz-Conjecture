@@ -1,1 +1,2 @@
 # Collatz-Conjecture
+The Collatz conjecture is a conjecture in mathematics named after Lothar Collatz, who first proposed it in 1937. The conjecture is also known as the 3n + 1 conjecture. This conjecture simply states that if any number is divided by 2 if even or multiplied by 3 and increased by 1 if odd repeatedly, would always result in the same 3 last steps, 4, 2, then finally 1. My website simply allows a user to enter a number of their choice and see how many steps it takes for the number to reach 1.
